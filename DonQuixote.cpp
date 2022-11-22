@@ -1,5 +1,5 @@
-// CS370 Assignment 1 - Don Quixote
-// Fall 2022
+ //Don Quixote
+
 
 
 #include <stdio.h>
